@@ -123,5 +123,3 @@ If you want, next I can:
 * Help you write **commit messages**
 * Start **Phase 2: backend folder structure**
 * Create an **API contract document**
-
-Just tell me what to move on to.
